@@ -1,0 +1,14 @@
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\bin\Debug\netcoreapp3.1\PingPongOyunu.exe
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\bin\Debug\netcoreapp3.1\PingPongOyunu.deps.json
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\bin\Debug\netcoreapp3.1\PingPongOyunu.runtimeconfig.json
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\bin\Debug\netcoreapp3.1\PingPongOyunu.runtimeconfig.dev.json
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\bin\Debug\netcoreapp3.1\PingPongOyunu.dll
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\bin\Debug\netcoreapp3.1\PingPongOyunu.pdb
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\obj\Debug\netcoreapp3.1\PingPongOyunu.csproj.AssemblyReference.cache
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\obj\Debug\netcoreapp3.1\PingPongOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\obj\Debug\netcoreapp3.1\PingPongOyunu.AssemblyInfoInputs.cache
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\obj\Debug\netcoreapp3.1\PingPongOyunu.AssemblyInfo.cs
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\obj\Debug\netcoreapp3.1\PingPongOyunu.csproj.CoreCompileInputs.cache
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\obj\Debug\netcoreapp3.1\PingPongOyunu.dll
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\obj\Debug\netcoreapp3.1\PingPongOyunu.pdb
+C:\Users\CanberkSAKA\source\repos\PingPongOyunu\PingPongOyunu\obj\Debug\netcoreapp3.1\PingPongOyunu.genruntimeconfig.cache
